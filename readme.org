@@ -1,0 +1,9 @@
+* Code Katas
+
+** Description
+A loose collection of code katas implemented in chez scheme.
+
+** Katas
+*** Trigrams
+This is an implementation of the following code kata in chez scheme:
+http://codekata.com/kata/kata14-tom-swift-under-the-milkwood/

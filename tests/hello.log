@@ -1,0 +1,10 @@
+%%%% Starting test hello
+Group begin: hello
+Test begin:
+  source-form: (hello "World")
+Test end:
+  result-kind: pass
+  actual-value: "Hello World!"
+  expected-value: "Hello World!"
+Group end: hello
+# of expected passes      1
